@@ -2,51 +2,45 @@
 const projects = [
   {
     id: 1,
-    title: "Nuestra primera foto",
-    year: "❤️",
-    image: "IMG-20241203-WA0014.jpg" // Ruta local
+    title: "Lentitos",
+    year: "🤓",
+    image: "lentes_sentada.png" 
   },
   {
     id: 2,
-    title: "Vaqueritos",
-    year: "🤠",
-    image: "NEGRO.jpg" // Ruta local
+    title: "Ojitos",
+    year: "👀",
+    image: "ojos.png" // Ruta local
   },
   {
     id: 3,
-    title: "Noche dorada",
-    year: "🎞️",
-    image: "72b74492-6818-44e4-8378-1b3ef5848384.jpg" // Ruta local
+    title: "Diente al dedo",
+    year: "😁👈",
+    image: "diente.png" // Ruta local
   },
   {
     id: 4,
-    title: "No face",
-    year: "😘",
-    image: "WhatsApp Image 2025-01-25 at 23.19.28.jpeg" // Ruta local
+    title: "Regalito",
+    year: "🎁",
+    image: "regalo.png" 
   },
   {
     id: 5,
-    title: "azulitos",
-    year: "🐬",
-    image: "IMG_2908.png" // Ruta local
+    title: "vibes",
+    year: "🌸",
+    image: "vibes.png" // Ruta local
   },
   {
     id: 6,
-    title: "Twins",
-    year: "🍊☁️",
-    image: "twins.png" // Ruta local
+    title: "oro",
+    year: "👑",
+    image: "oro.png" // Ruta local
   },
   {
     id: 6,
-    title: "salidas",
-    year: "✨",
-    image: "IMG_3663.JPG" // Ruta local
-  },
-  {
-    id: 6,
-    title: "Flow",
-    year: "❤️‍🔥",
-    image: "IMG_3531.JPG" // Ruta local
+    title: "lenguita",
+    year: "😛",
+    image: "lenguita.png" // Ruta local
   },
 ];
 
